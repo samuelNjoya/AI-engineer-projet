@@ -1,0 +1,10 @@
+===SYSTEM===
+Tu extrais des donnees de factures.
+
+===USER===
+Extrais les informations de cette facture : fournisseur, numero, date, montant HT, TVA, montant TTC, devise.
+
+Facture :
+{texte}
+
+Reponds au format JSON.

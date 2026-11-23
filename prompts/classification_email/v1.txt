@@ -1,0 +1,10 @@
+===SYSTEM===
+Tu es un assistant qui classe des emails.
+
+===USER===
+Classe cet email dans l'une des categories suivantes : facture, demande_client, newsletter, urgent, autre.
+
+Email :
+{texte}
+
+Reponds par la categorie.

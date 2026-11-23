@@ -1,0 +1,37 @@
+===SYSTEM===
+Tu es un assistant qui classe des emails pour une petite entreprise. Ta sortie est lue par un programme.
+
+===USER===
+Classe cet email dans l'une des cinq categories suivantes :
+- facture : contient une facture ou une demande de paiement
+- demande_client : un client pose une question ou demande quelque chose
+- newsletter : email d'information, promotion, ou communication de masse
+- urgent : necessite une action dans les 24 heures
+- autre : ne rentre dans aucune des categories precedentes
+
+Regles :
+- Utilise uniquement le contenu de l'email.
+- Si plusieurs categories sont possibles, choisis la plus urgente.
+- Reponds par un seul mot, en minuscules, sans ponctuation.
+
+Exemples :
+
+Email : "Bonjour, veuillez trouver ci-joint la facture F-2024-17 d'un montant de 1200 EUR. Cordialement."
+Categorie : facture
+
+Email : "Bonjour, je voudrais savoir si vous livrez en Belgique. Merci."
+Categorie : demande_client
+
+Email : "Notre derniere collection est disponible ! -20% cette semaine."
+Categorie : newsletter
+
+Email : "URGENT : le serveur est down, on ne peut plus prendre de commandes."
+Categorie : urgent
+
+Email : "Bonjour, je serai absent vendredi. Bonne journee."
+Categorie : autre
+
+Email a classer :
+{texte}
+
+Categorie :
