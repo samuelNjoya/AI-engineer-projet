@@ -1,0 +1,48 @@
+1. 💻 20 sujets de programmation à développer ensemble
+
+Je te propose de ne pas faire uniquement des sujets « définition de X ». On peut faire des publications techniques, professionnelles et réellement utiles, parfois assez avancées.
+
+🔌 APIs & Backend
+1-API : qu'est-ce que c'est réellement et comment fonctionne une API ?
+2-REST API vs GraphQL : lequel choisir pour un projet moderne ?
+3-REST API : les bonnes pratiques pour concevoir une API professionnelle
+4-Authentification API : JWT, Access Token et Refresh Token expliqués
+5-API Security : les erreurs de sécurité que les développeurs font souvent
+6-Swagger / OpenAPI : documenter une API comme un professionnel
+7-Webhooks vs APIs : quelle différence et quand utiliser chacun ?
+8-Microservices vs Monolithe : faut-il vraiment utiliser des microservices ?
+🗄️ Bases de données & architecture
+9-SQL vs NoSQL : comment choisir la bonne base de données ?
+10-ORM : pourquoi utiliser Prisma, TypeORM ou SQLAlchemy ?
+11-Les migrations de bases de données : pourquoi elles sont indispensables
+12-Index SQL : pourquoi une requête peut devenir 100× plus rapide
+13-Architecture d'une application moderne : Frontend → API → Database
+🌐 Git & développement professionnel
+14-Git vs GitHub : comprendre enfin la différence
+15-Les commandes Git indispensables qu'un développeur doit maîtriser
+16-Git Flow : comment travailler proprement à plusieurs sur un projet
+17-Pull Request : comment faire une vraie code review professionnelle
+18-Conflits Git : pourquoi ils arrivent et comment les résoudre proprement
+🚀 Niveau supérieur
+19-CI/CD : comment automatiser les tests et le déploiement d'une application
+20-Docker : pourquoi les développeurs utilisent des conteneurs ?
+
+Et on pourra aller encore plus loin après ces 20 sujets avec :
+
+architecture logicielle ;
+Clean Architecture ;
+SOLID ;
+Design Patterns ;
+caching ;
+Redis ;
+queues et jobs ;
+WebSockets ;
+rate limiting ;
+tests unitaires et tests d'intégration ;
+observabilité ;
+Docker/Kubernetes ;
+cloud ;
+IA pour développeurs ;
+LLM APIs ;
+RAG ;
+sécurité applicative.

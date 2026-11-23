@@ -1,0 +1,9 @@
+git config user.name "Ton Nom Perso"
+git config user.email "ton-email-perso@example.com"
+
+git config --get user.name
+git config --get user.email
+
+Samuelnyoya_2026
+
+git merge-base origin/develop feature_09_observabilite_securite
